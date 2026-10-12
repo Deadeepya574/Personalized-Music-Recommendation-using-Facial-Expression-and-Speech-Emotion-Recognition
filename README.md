@@ -1,4 +1,4 @@
-# Emotion-Aware Music Recommendation System 
+# Personalized Music Recommendation using Facial Expression and Speech Emotion Recognition
 
 This project integrates real-time facial emotion recognition with a music recommendation system to create a dynamic and responsive user experience. The system detects the user's emotions via webcam and plays music that complements or contrasts their mood, aiming to enhance emotional well-being and provide a personalized listening experience. It further integrates a Google Gemini AI voice assistant for seamless, interactive conversations and hands-free task execution.
 
